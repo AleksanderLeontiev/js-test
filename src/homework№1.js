@@ -20,6 +20,6 @@
 // }
 //
 // console.log(showNumber( a, b));
-export function showNumber ( a, b ) {
-    return a + b;
+export function showNumber(a, b) {
+  return a + b;
 }
