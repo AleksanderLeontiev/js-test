@@ -2,10 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6ae5a8a8-e3df-4d76-8494-40eced071f15" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.babelrc" beforeDir="false" afterPath="$PROJECT_DIR$/src/.babelrc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/.eslintrc.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/.eslintrc.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/babel.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/babel.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework№1.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework№1.test.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,6 +44,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/node_modules/jest" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="C:\Users\Александр\Desktop\js-test\node_modules\prettier" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -84,7 +89,8 @@
       <workItem from="1606552552284" duration="7069000" />
       <workItem from="1606565357902" duration="6351000" />
       <workItem from="1606573170198" duration="2299000" />
-      <workItem from="1606575915945" duration="7503000" />
+      <workItem from="1606575915945" duration="7864000" />
+      <workItem from="1606627665392" duration="7072000" />
     </task>
     <servers />
   </component>
