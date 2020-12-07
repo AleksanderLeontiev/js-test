@@ -2,13 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6ae5a8a8-e3df-4d76-8494-40eced071f15" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/homework№10.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework№10.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework№2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework№2.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework№3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework№3.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework№4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework№4.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework№5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework№5.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework№6.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework№6.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework№7.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework№7.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework№8.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework№8.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework№9.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework№9.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.babelrc" beforeDir="false" afterPath="$PROJECT_DIR$/src/.babelrc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.eslintrc.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/.eslintrc.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/babel.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/babel.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework№1.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework№1.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/homework№1.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework№1.test.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,7 +52,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -44,7 +61,6 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/node_modules/jest" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="prettierjs.PrettierConfiguration.Package" value="C:\Users\Александр\Desktop\js-test\node_modules\prettier" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -58,7 +74,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Jest.test 10st task ">
     <configuration name="homework№1.test.js" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
       <node-interpreter value="project" />
       <node-options value="" />
@@ -69,8 +85,22 @@
       <test-file value="$PROJECT_DIR$/src/homework№1.test.js" />
       <method v="2" />
     </configuration>
+    <configuration name="test 10st task " type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="SUITE" />
+      <test-file value="$PROJECT_DIR$/src/homework№10.test.js" />
+      <test-names>
+        <test-name value="test 10st task " />
+      </test-names>
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Jest.test 10st task " />
         <item itemvalue="Jest.homework№1.test.js" />
       </list>
     </recent_temporary>
@@ -89,8 +119,7 @@
       <workItem from="1606552552284" duration="7069000" />
       <workItem from="1606565357902" duration="6351000" />
       <workItem from="1606573170198" duration="2299000" />
-      <workItem from="1606575915945" duration="7864000" />
-      <workItem from="1606627665392" duration="7072000" />
+      <workItem from="1606575915945" duration="7503000" />
     </task>
     <servers />
   </component>
@@ -109,5 +138,8 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/js_test$homework1_test_js.info" NAME="homework№1.test.js Coverage Results" MODIFIED="1607352369440" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="JestJavaScriptTestRunnerCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
