@@ -28,9 +28,9 @@ export function numberMonth() {
 	const newMonths = input;
 	if (newMonths >= 0 && newMonths <= 12) {
 		return `Время года: ${months[Math.floor(newMonths)]}`;
-	} 
-		console.log("неправильный месяц");
-	
+	}
+	console.log("неправильный месяц");
+
 	return console.log(`${newMonths}`);
 }
 // *В переменных circle и square хранятся площади круга

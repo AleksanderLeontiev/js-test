@@ -29,7 +29,6 @@ export function minMaxElement() {
 	const e = Math.min.apply(null, arr);
 	console.log(l);
 	console.log(e);
-	
 }
 minMaxElement();
 // console.log(minMaxElement(arr));

@@ -4,7 +4,6 @@ export function counterNumber() {
 	for (let i = 50; i < 101; i += 10) {
 		console.log(i);
 	}
-	
 }
 counterNumber();
 // // 2.Вывести в консоль таблицу умножения на 7.
@@ -17,7 +16,6 @@ export function counterMilt(a) {
 		const s = a;
 		console.log(i * s);
 	}
-	
 }
 counterMilt(7);
 // *Запросить у пользователя ввод числа N. Вывести в

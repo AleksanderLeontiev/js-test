@@ -4,9 +4,8 @@
 export function diff(a, b) {
 	if (a > b) {
 		return a - b;
-	} 
-		return b - a;
-	
+	}
+	return b - a;
 }
 console.log(diff(100, 20));
 // 2.Напишите функцию isWord, которая принимает на
