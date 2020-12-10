@@ -2,47 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6ae5a8a8-e3df-4d76-8494-40eced071f15" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.eslintrc.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.github/workflows/sanity-check.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.prettierrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/babel.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/.idea/src.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jest.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/jest.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.babelrc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.eslintrc.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/babel.config.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework№1.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework№1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework№1.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework№1.test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework№10.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework№10.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework№10.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework№10.test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework№2.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework№2.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework№2.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework№2.test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework№3.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework№3.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework№3.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework№3.test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework№4.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework№4.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework№4.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework№4.test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework№5.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework№5.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework№5.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework№5.test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework№6.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework№6.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework№6.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework№6.test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework№7.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework№7.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework№7.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework№7.test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework№8.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework№8.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework№8.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework№8.test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework№9.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework№9.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework№9.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework№9.test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -171,7 +131,7 @@
       <workItem from="1607508607394" duration="10619000" />
       <workItem from="1607527715341" duration="6988000" />
       <workItem from="1607534774703" duration="275000" />
-      <workItem from="1607581805954" duration="1263000" />
+      <workItem from="1607581805954" duration="1565000" />
     </task>
     <servers />
   </component>
