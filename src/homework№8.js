@@ -2,19 +2,19 @@
 // ДД.ММ.ГГГГ. Напишите программу, выводящую день
 // недели по введённой дате.
 export function getWeekDay() {
-    let days = [
-        'Воскресенье',
-        'Понедельник',
-        'Вторник',
-        'Среда',
-        'Четверг',
-        'Пятница',
-        'Суббота'
-    ];
-    let input = +prompt("DD.ММ.YYYY");
-    let d = new Date(input);
-    let n = d.getDay();
-    return days[n];
+	const days = [
+		"Воскресенье",
+		"Понедельник",
+		"Вторник",
+		"Среда",
+		"Четверг",
+		"Пятница",
+		"Суббота",
+	];
+	const input = +prompt("DD.ММ.YYYY");
+	const d = new Date(input);
+	const n = d.getDay();
+	return days[n];
 }
 // function getDateAgo(date, days) {
 //     let dateAgo = new Date ();
@@ -26,23 +26,22 @@ export function getWeekDay() {
 // количество минут, прошедшее с начала сегодняшнего
 // дня.
 //
- export function getMinutesToday() {
-    let d = new Date();
-    return d.getHours() * 60 + d.getMinutes();
+export function getMinutesToday() {
+	const d = new Date();
+	return d.getHours() * 60 + d.getMinutes();
 }
-console.log(getMinutesToday());
+getMinutesToday();
 // // 3.*В двух переменных хранятся даты рождения двух
 // // пользователей в формате ДД.ММ.ГГГГ. Написать
 // // программу, которая определяет более молодого
 // // пользователя.
- export function young() {
-    let d = new Date(2000, 0, 25);
-    let d2 = d.getFullYear();
-    let j = new Date(1990, 1, 25);
-    let j2 = j.getFullYear();
-    let p = new Date(2020, 11, 30);
-    let p2 = p.getFullYear();
-    let a = (p2 - d2 < p2 - j2) ? "самый молодой:" + d2 : j2;
-    return a;
-};
-
+export function young() {
+	const d = new Date(2000, 0, 25);
+	const d2 = d.getFullYear();
+	const j = new Date(1990, 1, 25);
+	const j2 = j.getFullYear();
+	const p = new Date(2020, 11, 30);
+	const p2 = p.getFullYear();
+	const a = p2 - d2 < p2 - j2 ? `самый молодой:${d2}` : j2;
+	return a;
+}

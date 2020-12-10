@@ -2,31 +2,47 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6ae5a8a8-e3df-4d76-8494-40eced071f15" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/homework№10.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework№10.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework№2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework№2.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework№3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework№3.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework№4.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework№4.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework№5.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework№5.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework№6.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework№6.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework№7.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework№7.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework№8.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework№8.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework№9.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework№9.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.eslintrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.github/workflows/sanity-check.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.prettierrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/babel.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.idea/src.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jest.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/jest.config.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.babelrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.eslintrc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/babel.config.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/homework№1.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework№1.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/homework№1.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework№1.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework№10.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework№10.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework№10.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework№10.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework№2.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework№2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework№2.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework№2.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework№3.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework№3.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework№3.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework№3.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework№4.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework№4.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework№4.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework№4.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework№5.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework№5.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework№5.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework№5.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework№6.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework№6.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework№6.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework№6.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework№7.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework№7.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework№7.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework№7.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework№8.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework№8.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework№8.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework№8.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework№9.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework№9.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework№9.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework№9.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +68,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -61,6 +77,12 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/node_modules/jest" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="C:\Users\Александр\Desktop\js-test\node_modules\prettier" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Александр\Desktop\js-test" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -74,34 +96,57 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Jest.test 10st task ">
-    <configuration name="homework№1.test.js" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Node.js.homework№6.js">
+    <configuration name="homework№4.test.js" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
       <node-interpreter value="project" />
       <node-options value="" />
       <jest-package value="$PROJECT_DIR$/node_modules/jest" />
       <working-dir value="$PROJECT_DIR$" />
       <envs />
       <scope-kind value="TEST_FILE" />
-      <test-file value="$PROJECT_DIR$/src/homework№1.test.js" />
+      <test-file value="$PROJECT_DIR$/src/homework№4.test.js" />
       <method v="2" />
     </configuration>
-    <configuration name="test 10st task " type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+    <configuration name="show enters name" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
       <node-interpreter value="project" />
       <node-options value="" />
       <jest-package value="$PROJECT_DIR$/node_modules/jest" />
       <working-dir value="$PROJECT_DIR$" />
       <envs />
       <scope-kind value="SUITE" />
-      <test-file value="$PROJECT_DIR$/src/homework№10.test.js" />
+      <test-file value="$PROJECT_DIR$/src/homework№4.test.js" />
       <test-names>
-        <test-name value="test 10st task " />
+        <test-name value="show enters name" />
       </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="test 3st task.show arithmetic mean" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/src/homework№3.test.js" />
+      <test-names>
+        <test-name value="test 3st task" />
+        <test-name value="show arithmetic mean" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="homework№3.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="homework№3.js" working-dir="$PROJECT_DIR$/src">
+      <method v="2" />
+    </configuration>
+    <configuration name="homework№6.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="homework№6.js" working-dir="$PROJECT_DIR$/src">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Jest.test 10st task " />
-        <item itemvalue="Jest.homework№1.test.js" />
+        <item itemvalue="Node.js.homework№6.js" />
+        <item itemvalue="Node.js.homework№3.js" />
+        <item itemvalue="Jest.test 3st task.show arithmetic mean" />
+        <item itemvalue="Jest.show enters name" />
+        <item itemvalue="Jest.homework№4.test.js" />
       </list>
     </recent_temporary>
   </component>
@@ -120,6 +165,13 @@
       <workItem from="1606565357902" duration="6351000" />
       <workItem from="1606573170198" duration="2299000" />
       <workItem from="1606575915945" duration="7503000" />
+      <workItem from="1607354876455" duration="672000" />
+      <workItem from="1607361070252" duration="36000" />
+      <workItem from="1607444652234" duration="7043000" />
+      <workItem from="1607508607394" duration="10619000" />
+      <workItem from="1607527715341" duration="6988000" />
+      <workItem from="1607534774703" duration="275000" />
+      <workItem from="1607581805954" duration="1263000" />
     </task>
     <servers />
   </component>
