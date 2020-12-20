@@ -1,5 +1,3 @@
-// 1.Даны длины трёх сторон треугольника. Определить,
-//     является ли треугольник прямоугольным.
 export function lengthThreeSides(a, b, c) {
 	if (Math.sqrt(c) === Math.sqrt(b) + Math.sqrt(a)) {
 		console.log("прямоугольный");
@@ -8,9 +6,7 @@ export function lengthThreeSides(a, b, c) {
 	}
 }
 lengthThreeSides(2, 2, 8);
-// 2.Пользователь вводит число R. Написать программу,
-//     которая выведет в консоль длину окружности и
-// площадь круга с радиусом R.
+
 export function resultRadius(radius) {
 	const circle = {
 		square() {
@@ -24,9 +20,6 @@ export function resultRadius(radius) {
 }
 
 resultRadius(2);
-// *Пользователь вводит числа a, b и c. Написать
-// программу, выводящую корни квадратного
-// уравнения с коэффициентами a, b и c.
 export const quadraticEquation = (a, b, c) => {
 	if (a === 0) return false;
 	const res = {};

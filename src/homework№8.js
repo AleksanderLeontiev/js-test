@@ -1,6 +1,3 @@
-// 1.Запросите у пользователя дату в формате
-// ДД.ММ.ГГГГ. Напишите программу, выводящую день
-// недели по введённой дате.
 export function getWeekDay() {
 	const days = [
 		"Воскресенье",
@@ -16,25 +13,13 @@ export function getWeekDay() {
 	const n = d.getDay();
 	return days[n];
 }
-// function getDateAgo(date, days) {
-//     let dateAgo = new Date ();
-//     dateAgo.setTime(date - 1000 * 60 * 60 * 24 * days);
-//     return dateAgo.toDateString();
-// }
-// console.log(getDateAgo(2020))
-// 2.Написать программу, которая выводит в консоль
-// количество минут, прошедшее с начала сегодняшнего
-// дня.
-//
+
 export function getMinutesToday() {
 	const d = new Date();
 	return d.getHours() * 60 + d.getMinutes();
 }
 getMinutesToday();
-// // 3.*В двух переменных хранятся даты рождения двух
-// // пользователей в формате ДД.ММ.ГГГГ. Написать
-// // программу, которая определяет более молодого
-// // пользователя.
+
 export function young() {
 	const d = new Date(2000, 0, 25);
 	const d2 = d.getFullYear();

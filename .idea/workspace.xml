@@ -2,7 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6ae5a8a8-e3df-4d76-8494-40eced071f15" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework7.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework№1.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework№1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework№10.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework№10.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework№2.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework№2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework№3.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework№3.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework№4.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework№4.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework№5.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework№5.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework№6.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework№6.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework№7.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework№7.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework№7.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework№8.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework№8.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework№9.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework№9.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -36,12 +53,15 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/node_modules/jest" />
+    <property name="nodejs.mocha.mocha_node_package_dir" value="$PROJECT_DIR$/node_modules/mocha" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="prettierjs.PrettierConfiguration.Package" value="C:\Users\Александр\Desktop\js-test\node_modules\prettier" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Александр\Desktop\js-test" />
+      <recent name="C:\Users\Александр\Desktop\js-test\src" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -56,59 +76,88 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.homework№6.js">
-    <configuration name="homework№4.test.js" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
-      <node-interpreter value="project" />
-      <node-options value="" />
-      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
-      <working-dir value="$PROJECT_DIR$" />
-      <envs />
-      <scope-kind value="TEST_FILE" />
-      <test-file value="$PROJECT_DIR$/src/homework№4.test.js" />
-      <method v="2" />
-    </configuration>
-    <configuration name="show enters name" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Jest.addForm. new p on click button 5">
+    <configuration name="addForm" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
       <node-interpreter value="project" />
       <node-options value="" />
       <jest-package value="$PROJECT_DIR$/node_modules/jest" />
       <working-dir value="$PROJECT_DIR$" />
       <envs />
       <scope-kind value="SUITE" />
-      <test-file value="$PROJECT_DIR$/src/homework№4.test.js" />
+      <test-file value="$PROJECT_DIR$/src/homework№7.test.js" />
       <test-names>
-        <test-name value="show enters name" />
+        <test-name value="addForm" />
       </test-names>
       <method v="2" />
     </configuration>
-    <configuration name="test 3st task.show arithmetic mean" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+    <configuration name="addForm. adds new p on click button" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
       <node-interpreter value="project" />
       <node-options value="" />
       <jest-package value="$PROJECT_DIR$/node_modules/jest" />
       <working-dir value="$PROJECT_DIR$" />
       <envs />
       <scope-kind value="TEST" />
-      <test-file value="$PROJECT_DIR$/src/homework№3.test.js" />
+      <test-file value="$PROJECT_DIR$/src/homework№7.test.js" />
       <test-names>
-        <test-name value="test 3st task" />
-        <test-name value="show arithmetic mean" />
+        <test-name value="addForm" />
+        <test-name value=" adds new p on click button" />
       </test-names>
       <method v="2" />
     </configuration>
-    <configuration name="homework№3.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="homework№3.js" working-dir="$PROJECT_DIR$/src">
+    <configuration name="addForm. new p on click button 5" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/src/homework№7.test.js" />
+      <test-names>
+        <test-name value="addForm" />
+        <test-name value=" new p on click button 5" />
+      </test-names>
       <method v="2" />
     </configuration>
-    <configuration name="homework№6.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="homework№6.js" working-dir="$PROJECT_DIR$/src">
+    <configuration name="addForm. shows button if value is not empty" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/src/homework№7.test.js" />
+      <test-names>
+        <test-name value="addForm" />
+        <test-name value=" shows button if value is not empty" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="addForm.shows button if value is not empty" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/src/homework№7.test.js" />
+      <test-names>
+        <test-name value="addForm" />
+        <test-name value="shows button if value is not empty" />
+      </test-names>
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.homework№6.js" />
-        <item itemvalue="Node.js.homework№3.js" />
-        <item itemvalue="Jest.test 3st task.show arithmetic mean" />
-        <item itemvalue="Jest.show enters name" />
-        <item itemvalue="Jest.homework№4.test.js" />
+        <item itemvalue="Jest.addForm. new p on click button 5" />
+        <item itemvalue="Jest.addForm. adds new p on click button" />
+        <item itemvalue="Jest.addForm. shows button if value is not empty" />
+        <item itemvalue="Jest.addForm" />
+        <item itemvalue="Jest.addForm.shows button if value is not empty" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",SHOW_FIELDS" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -131,7 +180,14 @@
       <workItem from="1607508607394" duration="10619000" />
       <workItem from="1607527715341" duration="6988000" />
       <workItem from="1607534774703" duration="275000" />
-      <workItem from="1607581805954" duration="6122000" />
+      <workItem from="1607581805954" duration="6815000" />
+      <workItem from="1607602948708" duration="247000" />
+      <workItem from="1607618616312" duration="328000" />
+      <workItem from="1608227284407" duration="13532000" />
+      <workItem from="1608317526660" duration="3816000" />
+      <workItem from="1608378415824" duration="13711000" />
+      <workItem from="1608394841010" duration="2419000" />
+      <workItem from="1608451201049" duration="12089000" />
     </task>
     <servers />
   </component>
