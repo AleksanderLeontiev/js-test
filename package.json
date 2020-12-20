@@ -48,9 +48,5 @@
   "lint-staged": {
     "*.js": "eslint --cache --fix",
     "*.{js, css, html, md}": "prettier --write"
-  },
-  "dependencies": {
-    "chai": "^4.2.0",
-    "mocha": "^8.2.1"
   }
 }

@@ -2,24 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6ae5a8a8-e3df-4d76-8494-40eced071f15" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework7.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework№1.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework№1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework№10.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework№10.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework№2.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework№2.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework№3.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework№3.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework№4.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework№4.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework№5.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework№5.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework№6.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework№6.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework№7.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/homework№7.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework№7.test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework№8.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework№8.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework№9.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework№9.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -60,8 +47,8 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Александр\Desktop\js-test" />
       <recent name="C:\Users\Александр\Desktop\js-test\src" />
+      <recent name="C:\Users\Александр\Desktop\js-test" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -76,7 +63,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Jest.addForm. new p on click button 5">
+  <component name="RunManager" selected="Jest.addForm">
     <configuration name="addForm" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
       <node-interpreter value="project" />
       <node-options value="" />
@@ -148,10 +135,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Jest.addForm" />
+        <item itemvalue="Jest.addForm. shows button if value is not empty" />
         <item itemvalue="Jest.addForm. new p on click button 5" />
         <item itemvalue="Jest.addForm. adds new p on click button" />
-        <item itemvalue="Jest.addForm. shows button if value is not empty" />
-        <item itemvalue="Jest.addForm" />
         <item itemvalue="Jest.addForm.shows button if value is not empty" />
       </list>
     </recent_temporary>
@@ -187,7 +174,8 @@
       <workItem from="1608317526660" duration="3816000" />
       <workItem from="1608378415824" duration="13711000" />
       <workItem from="1608394841010" duration="2419000" />
-      <workItem from="1608451201049" duration="12089000" />
+      <workItem from="1608451201049" duration="13467000" />
+      <workItem from="1608465836131" duration="963000" />
     </task>
     <servers />
   </component>

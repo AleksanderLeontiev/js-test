@@ -24,7 +24,7 @@ describe("addForm", () => {
 	it(" adds new p on click button", () => {
 		addForm();
 		const input = document.getElementById("input");
-		const text = `${Math.random()  }`;
+		const text = `${Math.random()}`;
 		input.value = text;
 		input.dispatchEvent(new window.Event("keyup"));
 		const button = document.getElementById("button");
@@ -37,7 +37,7 @@ describe("addForm", () => {
 		addForm();
 		for (let i = 0; i < 5; i++) {
 			const input = document.getElementById("input");
-			const text = `${Math.random()  }`;
+			const text = `${Math.random()}`;
 			input.value = text;
 			input.dispatchEvent(new window.Event("keyup"));
 			const button = document.getElementById("button");
