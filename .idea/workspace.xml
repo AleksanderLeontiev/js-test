@@ -3,6 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="6ae5a8a8-e3df-4d76-8494-40eced071f15" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework7.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework7.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework№7.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework№7.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework№8.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework№8.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,6 +45,7 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="prettierjs.PrettierConfiguration.Package" value="C:\Users\Александр\Desktop\js-test\node_modules\prettier" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2019.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -59,7 +65,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Jest.addForm">
+  <component name="RunManager" selected="Jest.adds a new paragraph and text">
     <configuration name="addForm" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
       <node-interpreter value="project" />
       <node-options value="" />
@@ -101,7 +107,7 @@
       </test-names>
       <method v="2" />
     </configuration>
-    <configuration name="addForm. shows button if value is not empty" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+    <configuration name="addForm.should " type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
       <node-interpreter value="project" />
       <node-options value="" />
       <jest-package value="$PROJECT_DIR$/node_modules/jest" />
@@ -111,31 +117,30 @@
       <test-file value="$PROJECT_DIR$/src/homework№7.test.js" />
       <test-names>
         <test-name value="addForm" />
-        <test-name value=" shows button if value is not empty" />
+        <test-name value="should " />
       </test-names>
       <method v="2" />
     </configuration>
-    <configuration name="addForm.shows button if value is not empty" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+    <configuration name="adds a new paragraph and text" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
       <node-interpreter value="project" />
       <node-options value="" />
       <jest-package value="$PROJECT_DIR$/node_modules/jest" />
       <working-dir value="$PROJECT_DIR$" />
       <envs />
-      <scope-kind value="TEST" />
+      <scope-kind value="SUITE" />
       <test-file value="$PROJECT_DIR$/src/homework№7.test.js" />
       <test-names>
-        <test-name value="addForm" />
-        <test-name value="shows button if value is not empty" />
+        <test-name value="adds a new paragraph and text" />
       </test-names>
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Jest.addForm" />
-        <item itemvalue="Jest.addForm. shows button if value is not empty" />
+        <item itemvalue="Jest.adds a new paragraph and text" />
         <item itemvalue="Jest.addForm. new p on click button 5" />
+        <item itemvalue="Jest.addForm" />
+        <item itemvalue="Jest.addForm.should " />
         <item itemvalue="Jest.addForm. adds new p on click button" />
-        <item itemvalue="Jest.addForm.shows button if value is not empty" />
       </list>
     </recent_temporary>
   </component>
@@ -174,6 +179,18 @@
       <workItem from="1608465836131" duration="963000" />
       <workItem from="1608484775743" duration="816000" />
       <workItem from="1608548948035" duration="445000" />
+      <workItem from="1608549424959" duration="899000" />
+      <workItem from="1608551394544" duration="3171000" />
+      <workItem from="1608645522885" duration="9277000" />
+      <workItem from="1608807098000" duration="7585000" />
+      <workItem from="1608995670934" duration="4343000" />
+      <workItem from="1609007761810" duration="9182000" />
+      <workItem from="1609062324511" duration="7467000" />
+      <workItem from="1609083080906" duration="4916000" />
+      <workItem from="1609140150579" duration="7136000" />
+      <workItem from="1609164040652" duration="1176000" />
+      <workItem from="1609165924293" duration="946000" />
+      <workItem from="1609326906770" duration="1045000" />
     </task>
     <servers />
   </component>

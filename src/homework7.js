@@ -1,7 +1,6 @@
-export function addForm(el) {
-	const input = document.getElementById("input");
-	const addButton = document.getElementById("addButton");
-
+export function addForm() {
+	const input = document.querySelector(".input");
+	const addButton = document.querySelector(".addButton");
 	function inputChange(event) {
 		if (event.target.value !== null && event.target.value.trim() !== "") {
 			addButton.style.visibility = "visible";
@@ -9,9 +8,8 @@ export function addForm(el) {
 			addButton.style.visibility = "hidden";
 		}
 	}
-
 	function addElement() {
-		const listElement = document.getElementById("listElement");
+		const listElement = document.querySelector(".listElement");
 		const p = document.createElement("p");
 		if (input.value !== null && input.value.trim() !== "") {
 			p.textContent = input.value;
@@ -25,4 +23,6 @@ export function addForm(el) {
 			}
 		}
 	}
+	input.addEventListener("keyup", inputChange);
+	addButton.addEventListener("click", addElement);
 }

@@ -13,17 +13,7 @@ describe("test 8st task ", () => {
 			return date;
 		};
 	});
-	//         const mockedDate = new Date(2020, 11, 5);
-	//     //     const originalDate =  Date;
-	//         global.Date = jest.fn(() => mockedDate);
-	//         global.Date.getHours = originalDate.getHours;
-	//         return
-	//     //}
-	// });
-	//
-	// afterEach(() => {
-	//     window.Date = originalDate;
-	// });
+
 	test("number of minutes from the beginning of the day", () => {
 		const d = new Date();
 		const f = d.getHours() * 60 + d.getMinutes();

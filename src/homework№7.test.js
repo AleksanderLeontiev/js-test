@@ -1,49 +1,27 @@
 import { addForm } from "./homework7";
 
-describe("addForm", () => {
-	const elementMock = { addEventListener: jest.fn() };
-	jest.spyOn(document, "getElementById").mockImplementation(() => elementMock);
-	const elementDist = { dispatchEvent: jest.fn() };
-	jest.spyOn(document, "getElementById").mockImplementation(() => elementDist);
-	let el;
-	beforeEach(() => {
-		el = document.createElement("div");
-	});
-	it(" shows button if value is not empty", () => {
-		addForm();
-		const input = document.getElementById("input");
-		input.value = "text";
-		input.dispatchEvent(new window.Event("keyup"));
-		const button = document.getElementById("button");
-		expect(input).toBe(button);
-		input.value = "";
-		input.dispatchEvent(new window.Event("keyup"));
-		expect(el.querySelector("button")).toBe(null);
-	});
+describe("adds a new paragraph and text", () => {
+	document.body.innerHTML = `<div id="app">
+			<input class ="input" type="text">
+			<button class ="addButton" style="visibility: hidden">Add</button>
+			<div class ="listElement"></div>
+			</div>`;
 
-	it(" adds new p on click button", () => {
+	it("paragraph length does not exceed 5", () => {
 		addForm();
-		const input = document.getElementById("input");
-		const text = `${Math.random()}`;
-		input.value = text;
-		input.dispatchEvent(new window.Event("keyup"));
-		const button = document.getElementById("button");
-		button.dispatchEvent(new window.Event("click"));
-		expect(input.value).toBe(text);
-		expect(document.createElement("p").innerHTML).toHaveLength(0);
-	});
-
-	it(" new p on click button 5", () => {
-		addForm();
-		for (let i = 0; i < 5; i++) {
-			const input = document.getElementById("input");
-			const text = `${Math.random()}`;
+		const input = document.querySelector("input");
+		for (let i = 0; i < 6; i++) {
+			const text = `${Math.random()  }`;
 			input.value = text;
 			input.dispatchEvent(new window.Event("keyup"));
-			const button = document.getElementById("button");
+			const button = document.querySelector(".addButton");
 			button.dispatchEvent(new window.Event("click"));
-			if (i > 1) {
-				expect(document.querySelectorAll("p").length).toBe(0);
+			if (i === 5) {
+				expect(document.querySelectorAll("p").length).toBe(4);
+				expect(document.querySelectorAll("p").length).not.toBe(1);
+				expect(document.querySelectorAll("p").length).not.toBe(6);
+				expect(document.querySelectorAll("p")[3].innerHTML).toBe(text);
+				expect(document.querySelector("button").innerHTML).toEqual("Add");
 			}
 		}
 	});
