@@ -3,11 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="6ae5a8a8-e3df-4d76-8494-40eced071f15" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework7.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework7.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/homework№7.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework№7.test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework№8.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework№8.test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -79,20 +75,6 @@
       </test-names>
       <method v="2" />
     </configuration>
-    <configuration name="addForm. adds new p on click button" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
-      <node-interpreter value="project" />
-      <node-options value="" />
-      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
-      <working-dir value="$PROJECT_DIR$" />
-      <envs />
-      <scope-kind value="TEST" />
-      <test-file value="$PROJECT_DIR$/src/homework№7.test.js" />
-      <test-names>
-        <test-name value="addForm" />
-        <test-name value=" adds new p on click button" />
-      </test-names>
-      <method v="2" />
-    </configuration>
     <configuration name="addForm. new p on click button 5" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
       <node-interpreter value="project" />
       <node-options value="" />
@@ -134,13 +116,27 @@
       </test-names>
       <method v="2" />
     </configuration>
+    <configuration name="adds a new paragraph and text.paragraph length does not exceed 5" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/src/homework№7.test.js" />
+      <test-names>
+        <test-name value="adds a new paragraph and text" />
+        <test-name value="paragraph length does not exceed 5" />
+      </test-names>
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Jest.adds a new paragraph and text" />
+        <item itemvalue="Jest.adds a new paragraph and text.paragraph length does not exceed 5" />
         <item itemvalue="Jest.addForm. new p on click button 5" />
         <item itemvalue="Jest.addForm" />
         <item itemvalue="Jest.addForm.should " />
-        <item itemvalue="Jest.addForm. adds new p on click button" />
       </list>
     </recent_temporary>
   </component>
@@ -190,7 +186,8 @@
       <workItem from="1609140150579" duration="7136000" />
       <workItem from="1609164040652" duration="1176000" />
       <workItem from="1609165924293" duration="946000" />
-      <workItem from="1609326906770" duration="1485000" />
+      <workItem from="1609326906770" duration="2346000" />
+      <workItem from="1609355019953" duration="511000" />
     </task>
     <servers />
   </component>

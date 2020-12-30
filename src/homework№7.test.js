@@ -10,16 +10,15 @@ describe("adds a new paragraph and text", () => {
 	it("paragraph length does not exceed 5", () => {
 		addForm();
 		const input = document.querySelector("input");
+		const button = document.querySelector(".addButton");
+
 		for (let i = 0; i < 6; i++) {
 			const text = `${Math.random()}`;
 			input.value = text;
 			input.dispatchEvent(new window.Event("keyup"));
-			const button = document.querySelector(".addButton");
 			button.dispatchEvent(new window.Event("click"));
 			if (i === 5) {
 				expect(document.querySelectorAll("p").length).toBe(4);
-				expect(document.querySelectorAll("p").length).not.toBe(1);
-				expect(document.querySelectorAll("p").length).not.toBe(6);
 				expect(document.querySelectorAll("p")[3].innerHTML).toBe(text);
 				expect(document.querySelector("button").innerHTML).toEqual("Add");
 			}
