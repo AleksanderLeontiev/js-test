@@ -11,7 +11,7 @@ describe("adds a new paragraph and text", () => {
 		addForm();
 		const input = document.querySelector("input");
 		for (let i = 0; i < 6; i++) {
-			const text = `${Math.random()  }`;
+			const text = `${Math.random()}`;
 			input.value = text;
 			input.dispatchEvent(new window.Event("keyup"));
 			const button = document.querySelector(".addButton");
