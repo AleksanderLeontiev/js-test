@@ -17,6 +17,7 @@ module.exports = {
 		"no-useless-escape": "off",
 		"no-unused-vars": "off",
 		"no-plusplus": "off",
+		"import/extensions": "off",
 	},
 	plugins: ["jest"],
 };

@@ -1,3 +1,3 @@
-import { addForm } from "./homework7";
+import { addForm } from "./homework7.js";
 
 addForm();
